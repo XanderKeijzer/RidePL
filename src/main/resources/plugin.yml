@@ -1,0 +1,13 @@
+main: nl.twinkelmc.rides.Main
+name: TMC-Rides
+version: 0.1
+author: XanderWander
+api-version: 1.16
+#depend: [ProtocolLib]
+commands:
+  devride:
+    description: command
+  panel:
+    description: command
+  ride:
+    description: command
